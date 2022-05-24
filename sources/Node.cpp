@@ -20,10 +20,6 @@ Node::Node(){
     this->id=0;
     this->level=0;
 }
-/**
- * @brief Destroy the Node:: Node object
- * 
- */
 
 /**
  * @brief adds a node to sons vector.
